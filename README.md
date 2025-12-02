@@ -14,6 +14,7 @@ Back:<br/>
 
 Disclaimer:
 This was made with the support of the NFC card tutorial at https://jams.hackclub.com/jam/hacker-card
+This is a submission for an event known as Blueprint. Check it out here https://blueprint.hackclub.com/r/56?ref=r
 
 BTW
 Symbol on case is the Justiciar symbol from Lord Of The Mysteries / Lord Of Mysteries / Guǐ Mì Zhī Zhǔ
