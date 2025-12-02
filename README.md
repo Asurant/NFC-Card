@@ -4,8 +4,8 @@ An NFC card that links back to my github <br/>
 With this NFC card I can more freely share my contacts with others and it also acts as a cool way to show my github.<br/>
 <br/>
 Future Change Plans:<br/>
-&nbsp; Adding a personal website onto the card (I don't have one yet)<br/>
-&nbsp; Adding my irl name, number, and email (If done I don't be adding this onto the github for privacy reasons)<br/>
+&emsp;Adding a personal website onto the card (I don't have one yet)<br/>
+&emsp;Adding my irl name, number, and email (If done I don't be adding this onto the github for privacy reasons)<br/>
 <br/>
 Front: <br/>
 <img width="835" height="600" alt="image" src="https://github.com/user-attachments/assets/ad1ff2b5-5bd5-423e-99eb-2cb14cbb1256" /> <br/> <br/>
